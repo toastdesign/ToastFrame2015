@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 src
 dist
 node_modules
@@ -6,3 +7,6 @@ node_modules
 =======
 node_modules
 >>>>>>> origin/master
+=======
+.sass-cache
+>>>>>>> added gitigmore
