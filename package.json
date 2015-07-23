@@ -1,0 +1,22 @@
+{
+  "name": "ToastFrame2015",
+  "version": "1.0.0",
+  "description": "Package file for toast design",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://toastdesign@github.com/toastdesign/ToastFrame2015.git"
+  },
+  "author": "Toast Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toastdesign/ToastFrame2015/issues"
+  },
+  "homepage": "https://github.com/toastdesign/ToastFrame2015",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
