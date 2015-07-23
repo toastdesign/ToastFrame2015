@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 src
 dist
 node_modules
 .sass-cache/*
+=======
+node_modules
+>>>>>>> origin/master
